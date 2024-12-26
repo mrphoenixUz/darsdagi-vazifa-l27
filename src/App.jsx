@@ -5,8 +5,8 @@ import Books from './components/Books';
 import AddBookForm from './components/AddBookForm';
 import Profile from './components/Profile';
 import PrivateRoute from './components/PrivateRoute';
-import Login from './pages/login';
-import Register from './pages/register';
+import Login from './pages/Loginn';
+import Register from './pages/Registerr';
 
 const App = () => {
   return (
